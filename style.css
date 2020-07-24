@@ -1,0 +1,89 @@
+body{
+    background-image: url("https://wallpaperplay.com/walls/full/5/f/3/256720.jpg");
+    font-weight: 600 !important;
+    min-width: 400px !important;
+}
+#score{
+    width: 20% !important;
+    color: white !important;
+    font-size: larger !important;
+    font-weight: 700 !important;
+    background-color: rgba(35, 30, 59, 0.8) !important;
+}
+.container-sm{
+    margin-top: 10px !important;
+    padding: 5px !important;
+}
+.alert-primary{
+    margin:  auto !important;
+    width: max-content;
+    background-color: rgba(177, 39, 115, 0.493) !important;
+    border-radius: 16px 0 !important;
+    margin-top: 15px !important;
+    color: rgba(231, 241, 239 , 1) !important;
+    text-shadow: 2px 0  white;
+    box-shadow: 5px 6px rgb(57, 29, 65);
+
+    font-weight: 900 !important;
+}
+.alert-info{
+    box-shadow: 5px 6px rgb(67, 155, 128);
+    margin: auto !important;
+    margin-top: 15px !important;
+    padding: 15px !important;
+    width: 600px !important;
+
+    border-radius: 20px 0 !important;
+}
+h4{
+    color: rgb(177, 27, 102) !important;    
+}
+
+input{
+    margin-right: 15px !important;
+    margin-left: 10px !important;
+
+}
+label{
+    margin-right: 15px !important;
+
+}
+.alert-success{
+    text-align: center !important;
+    margin: auto !important;
+    width: max-content !important;
+    padding-top: 20px !important;
+
+}
+.alert-light{
+    opacity:0.9;
+    border-radius: 0 8px 0 8px !important;
+    display: inline !important;
+    padding: 10px !important;
+    margin-right: 10px !important;
+
+}
+button{
+    font-weight: 900 !important;
+    margin-top: 15px !important;
+    font-size: larger !important;
+    width: 10% !important;
+    border-radius: 16px 0 !important;
+    box-shadow: 5px 6px rgb(26, 112, 52);
+
+
+}
+#footer {
+    background-color: rgb(41, 160, 148) !important;
+    border-radius: 16px 0 !important;
+    box-shadow: 5px 6px rgb(26, 112, 52);
+    margin-top: 100px !important;
+    opacity: .8 !important;
+}
+#footer h1{
+    font-size: x-large !important;
+    font-weight: 500 !important;
+    margin: 5px auto !important;
+    opacity: 1 !important;
+
+}
